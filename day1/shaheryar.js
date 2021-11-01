@@ -1,0 +1,2 @@
+// ARRAYS
+let array = [];

@@ -1,13 +1,7 @@
 # 50 Days Of Code - Log
 
+### Day 1: November 1, 2021
 
-### Day 1: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress**: spent the day in exploring the array 101 content of leetcode. I've done some example practice on sandbox and will Start properly coding in this repo from tomorrow.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-**Link to twitter:** [twitter](https://twitter.com)
+**Thoughts:** The content on leetcode is very conceptual and I enjoyed reading it and spending a lot of time thinking about.
